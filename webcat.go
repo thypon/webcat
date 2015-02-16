@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/url"
 
-	"./libwebcat"
+	"github.com/thypon/webcat/libwebcat"
 )
 
 func main() {
